@@ -20,6 +20,7 @@ To address high employee turnover and suboptimal performance, this project aimed
 
 **- Dashboard Design**
 
+![HR Analytics_page-0001](https://github.com/Sagarparkhe/HR-Analytics-Dashboard/assets/171353864/accbb817-b712-4368-a7cf-425c0360cef7)
 
 **Key Features:**
 
