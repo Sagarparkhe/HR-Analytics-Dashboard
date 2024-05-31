@@ -6,17 +6,17 @@ To enhance employee performance and retention by creating a comprehensive HR das
 
 **Steps Followed:**
 
-Data Integration: Combined multiple data sources for a unified HR metrics view.
+- Step 1 : Data Integration: Combined multiple data sources for a unified HR metrics view.
 
-Advanced Visualizations: Created various Power BI visualizations like bar charts, line graphs, and pie charts.
+- Step 2 : Advanced Visualizations: Created various Power BI visualizations like bar charts, line graphs, and pie charts.
 
-Interactive Dashboards: Designed with filters and drill-down capabilities for in-depth analysis.
+- Step 3 : Interactive Dashboards: Designed with filters and drill-down capabilities for in-depth analysis.
 
-DAX Functions: Applied advanced DAX functions for complex calculations.
+- Step 4 : DAX Functions: Applied advanced DAX functions for complex calculations.
 
-User-Centric Design: Focused on intuitive design for HR professionals.
+- Step 5 : User-Centric Design: Focused on intuitive design for HR professionals.
 
-Real-Time Insights: Enabled real-time data updates for timely decision-making.
+- Step 6 : Real-Time Insights: Enabled real-time data updates for timely decision-making.
 
 **Key Features:**
 
