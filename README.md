@@ -36,23 +36,21 @@ Gained Employee Trust: Fostered a data-informed culture.
 
 **Skills and Tools Utilized:**
 
-Data Cleaning: Ensuring data accuracy by removing errors, inconsistencies, and duplicates to maintain a high-quality dataset for analysis.
+Data Cleaning
 
-User-Centric Design: Creating dashboards that are intuitive and easy to navigate, focusing on user experience to ensure stakeholders can efficiently access and understand data insights.
+User-Centric Design
 
-Interactive Dashboards: Developing dashboards with interactive elements such as filters, drill-downs, and dynamic visualizations to allow users to explore data in detail and derive meaningful insights.
+Interactive Dashboards
 
-DAX Functions: Using Data Analysis Expressions (DAX) to perform complex calculations, aggregations, and data manipulation within Power BI to provide accurate and detailed insights.
+DAX Functions
 
-Microsoft Power Query: Leveraging Power Query for data transformation and preparation, enabling the merging, appending, and refining of data from multiple sources.
+Microsoft Power Query
 
-Data Analysis: Analyzing data to identify trends, patterns, and correlations that inform business strategies and decision-making processes.
+Data Analysis
 
-Data Visualization: Presenting data through various visual formats such as charts, graphs, and maps to make complex information more accessible and understandable.
+Data Visualization
 
-Statistical Data Analysis: Applying statistical techniques to analyze data distributions, variability, and relationships, providing a robust foundation for data-driven decisions.
-
-Microsoft Power BI: Utilizing Power BI to create comprehensive and interactive reports and dashboards, providing real-time insights and enabling effective data storytelling.
+Statistical Data Analysis
 
 **Learning Outcomes:**
 
