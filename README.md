@@ -18,6 +18,9 @@ To address high employee turnover and suboptimal performance, this project aimed
 
 - Step 6 : Real-Time Insights: Enabled real-time data updates for timely decision-making.
 
+**- Dashboard Design**
+
+
 **Key Features:**
 
 Identified Key Factors to Reduce Attrition: Leveraged data analysis to pinpoint critical factors contributing to turnover.
