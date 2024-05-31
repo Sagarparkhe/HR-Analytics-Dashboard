@@ -2,7 +2,7 @@
 
 **Problem Statement**
 
-To enhance employee performance and retention by creating a comprehensive HR dashboard that provides actionable insights.
+To address high employee turnover and suboptimal performance, this project aimed to create a comprehensive HR dashboard that provides actionable insights into key HR metrics. The goal was to enhance employee performance and retention by identifying critical factors contributing to turnover, improving the hiring process, boosting employee satisfaction, and optimizing workforce productivity. The dashboard serves as a tool for HR professionals to make data-driven decisions, foster a culture of transparency, and ultimately build a more engaged and productive workforce.
 
 **Steps Followed:**
 
